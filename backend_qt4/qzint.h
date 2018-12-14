@@ -19,7 +19,7 @@
 #include <QColor>
 #include <QPainter>
 
-#include "zint.h"
+#include "common.h"
 
 namespace Zint
 {

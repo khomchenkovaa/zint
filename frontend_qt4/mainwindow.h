@@ -17,9 +17,7 @@
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 
-#include <QtGui>
-#include <QGraphicsItem>
-#include <QMainWindow>
+#include <QtWidgets>
 
 #include "ui_mainWindow.h"
 #include "barcodeitem.h"
